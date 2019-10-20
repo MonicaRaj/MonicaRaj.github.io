@@ -1,2 +1,2 @@
-# WebDeveloper
-Coursera courseera
+# Web Developer - Assignments
+Coursera
